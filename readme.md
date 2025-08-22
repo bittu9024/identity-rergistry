@@ -54,3 +54,7 @@ The Identity Registry project has significant potential for expansion and enhanc
 - **Real Estate**: Property ownership and transaction verification
 
 ## Contract Address Details
+ST22QYEETRP7XCYYC0D7P9NSD5N217995TSX8K2PF.IdentityRegistry
+<img width="985" height="591" alt="Screenshot 2025-08-22 164859" src="https://github.com/user-attachments/assets/94556c94-3642-41ab-92b4-b31be845e2a9" />
+
+
